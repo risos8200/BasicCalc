@@ -109,14 +109,4 @@ public void clear(View v){
         clc.setText("DEL");
     }
 }
-}  /*editText.setText(String.valueOf(num1));
-        do {
-            Button b = (Button) v;
-            bT = b.getText().toString();
-            if(bT!="+"||bT!="-"||bT!="=")
-                num2=num2*10+Integer.parseInt(bT);
-            else
-                break;
-        }while(bT!="+"||bT!="-"||bT!="=");
-*/
-
+}
